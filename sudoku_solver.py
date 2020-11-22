@@ -50,7 +50,7 @@ class Cell():
             print(f"Cell at row:{self.row}, column:{self.column} found {candidate} as it's lowest possible value, given {self.known_failures} had already been tried.")
         return candidate
 
-
+#A new comment
 
 def display(data):
     x = 0
